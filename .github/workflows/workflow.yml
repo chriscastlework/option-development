@@ -1,4 +1,4 @@
-name: deploy-static-web-app
+name: deploy-static-web-ap
 concurrency: option-development
 
 on:
